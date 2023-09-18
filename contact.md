@@ -14,6 +14,6 @@ N'hésitez pas à me contacter!
 
 📞 0612345678
 
-🏢 Linkedin
+🏢 [Linkedin](https://linkedin.com)
 
-🐦 Twitter
+🐦 [Twitter](https://Twitter.com)
