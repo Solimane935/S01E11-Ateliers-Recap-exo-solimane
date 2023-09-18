@@ -14,4 +14,4 @@ J’accompagne les particuliers et les entreprises dans l’amélioration de leu
 
 Disponible immédiatement.
 
-© 2023 - El Hasnaoui Solimane - [Me contacter]
+© 2023 - El Hasnaoui Solimane - [Me contacter]((https://github.com/Solimane935/S01E11-Ateliers-Recap-exo-solimane/blob/main/contact.md))
