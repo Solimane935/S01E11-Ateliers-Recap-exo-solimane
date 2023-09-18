@@ -14,19 +14,19 @@
 
 75020 Paris
 
-Solimane.el-hasnaoui@wanadoo.com
+solimane.el-hasnaoui@wanadoo.com
 
 #### Experiences ####
 
-* 2022 Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.
-* 2021 Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.
-* 2018 Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.
+* 2022 : *Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.*
+* 2021 : *Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.*
+* 2018 : *Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.*
 
 #### Formation ####
 
-* 2016 Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.
-* 2015 Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.
-* 2013 Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.
+* 2016 : *Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.*
+* 2015 : *Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.*
+* 2013 : *Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.*
 
 #### Autres ####
 
@@ -35,4 +35,4 @@ Solimane.el-hasnaoui@wanadoo.com
 * Lecture
 
 
-© 2023 - El Hasnaoui Solimane - [Me contacter]
+© 2023 - El Hasnaoui Solimane - [Contact](https://github.com/Solimane935/S01E11-Ateliers-Recap-exo-solimane/blob/main/contact.md)
