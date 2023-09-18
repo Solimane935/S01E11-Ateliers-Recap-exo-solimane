@@ -1,5 +1,3 @@
-![image bureau](https://c.pxhere.com/photos/32/23/computer_computers_computer_technology_room_technology_internet_keyboard_work-563656.jpg!d)
-
 # EL HASNAOUI Solimane #
 
 Développeur web junior en formation "Développement Web et Accessibilité"
