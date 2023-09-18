@@ -12,7 +12,7 @@ N'hésitez pas à me contacter!
 
 
 
-📧 Solimane.el-hasnaoui@wanadoo.com
+📧 solimane.el-hasnaoui@wanadoo.com
 
 📞 0612345678
 
