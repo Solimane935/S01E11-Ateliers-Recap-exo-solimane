@@ -1,0 +1,38 @@
+![image bureau](https://c.pxhere.com/photos/32/23/computer_computers_computer_technology_room_technology_internet_keyboard_work-563656.jpg!d)
+
+# EL HASNAOUI Solimane #
+
+Développeur web junior en formation "Développement Web et Accessibilité"
+
+[Accueil](https://github.com/Solimane935/S01E11-Ateliers-Recap-exo-solimane/blob/main/-Ateliers-Recap-exo-solimane.md) - [Projets](https://github.com/Solimane935/S01E11-Ateliers-Recap-exo-solimane/blob/main/projets.md) - [CV] - [Contact]
+
+## CV ##
+
+### El Hasnaoui Solimane ###
+
+26 rue de vert labat
+
+75020 Paris
+
+Solimane.el-hasnaoui@wanadoo.com
+
+#### Experiences ####
+
+* 2022 Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.
+* 2021 Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.
+* 2018 Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.
+
+#### Formation ####
+
+* 2016 Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.
+* 2015 Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.
+* 2013 Siquae alites multiplices herbae multiplices universis capi copia multiplices lactisque.
+
+#### Autres ####
+
+* Permis B
+* Poker
+* Lecture
+
+
+© 2023 - El Hasnaoui Solimane - [Me contacter]
